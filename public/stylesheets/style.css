@@ -37,8 +37,8 @@ body {
     width: 92%;
     border: none;
     border-radius: 5px;
-    height: 20px;
-    font-family: 'Candal', sans-serif;
+    height: 30px;
+    font-family: cursive;
 }
 
 .todo-header button {
